@@ -8,5 +8,5 @@ Digital image processing program (2020.06)
 
 
 # File Description
- - 201713074DIP :: project file
+ - 201713074DIP :: Digital image processing code (C++, using Open CV 3.0)
  - Digital image processing code Execution Results and Observations.pdf
